@@ -6,5 +6,10 @@
 4. to run both of them copy the exact file aur pull it in your enviorment and use npm run dev.
 5. ensure you have react pre installed in your pc aur device you are using
 
-#Question-1: 
-## like button
+## like button:
+this projest uses usestate to store the current state of like button to false
+once it is clicked the button and its state are updated through using on click
+
+##fetching data codes:
+this project use useeffect to create an async function to get the api data in jason format from the required website
+the file is updated accordingly and it is using async functions to update the working of api data.
