@@ -10,6 +10,6 @@
 this projest uses usestate to store the current state of like button to false
 once it is clicked the button and its state are updated through using on click
 
-##fetching data codes:
+## fetching data codes:
 this project use useeffect to create an async function to get the api data in jason format from the required website
 the file is updated accordingly and it is using async functions to update the working of api data.
